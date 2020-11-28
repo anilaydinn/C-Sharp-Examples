@@ -1,0 +1,7 @@
+C:\Users\anil_\source\repos\CSharpCourse\Example1\bin\Debug\Example1.exe.config
+C:\Users\anil_\source\repos\CSharpCourse\Example1\bin\Debug\Example1.exe
+C:\Users\anil_\source\repos\CSharpCourse\Example1\bin\Debug\Example1.pdb
+C:\Users\anil_\source\repos\CSharpCourse\Example1\obj\Debug\Example1.csprojAssemblyReference.cache
+C:\Users\anil_\source\repos\CSharpCourse\Example1\obj\Debug\Example1.csproj.CoreCompileInputs.cache
+C:\Users\anil_\source\repos\CSharpCourse\Example1\obj\Debug\Example1.exe
+C:\Users\anil_\source\repos\CSharpCourse\Example1\obj\Debug\Example1.pdb
