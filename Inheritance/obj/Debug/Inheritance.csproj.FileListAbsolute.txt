@@ -1,0 +1,6 @@
+C:\Users\anil_\source\repos\CSharpCourse\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\anil_\source\repos\CSharpCourse\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\anil_\source\repos\CSharpCourse\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\anil_\source\repos\CSharpCourse\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\anil_\source\repos\CSharpCourse\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\anil_\source\repos\CSharpCourse\Inheritance\obj\Debug\Inheritance.pdb
