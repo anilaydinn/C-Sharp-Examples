@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualMethods", "VirtualMethods\VirtualMethods.csproj", "{3465E85F-9A54-4375-96C6-42B88AA42607}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClasses", "AbstractClasses\AbstractClasses.csproj", "{6C6BBAA8-AB5E-472C-B4C9-D6F499B4498B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{3465E85F-9A54-4375-96C6-42B88AA42607}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3465E85F-9A54-4375-96C6-42B88AA42607}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3465E85F-9A54-4375-96C6-42B88AA42607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C6BBAA8-AB5E-472C-B4C9-D6F499B4498B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C6BBAA8-AB5E-472C-B4C9-D6F499B4498B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C6BBAA8-AB5E-472C-B4C9-D6F499B4498B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C6BBAA8-AB5E-472C-B4C9-D6F499B4498B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
