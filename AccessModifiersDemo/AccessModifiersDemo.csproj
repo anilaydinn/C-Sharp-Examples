@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AccessModifiers\AccessModifiers.csproj">
+      <Project>{37cf4ce1-721a-4df4-8ced-ed83dded4601}</Project>
+      <Name>AccessModifiers</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

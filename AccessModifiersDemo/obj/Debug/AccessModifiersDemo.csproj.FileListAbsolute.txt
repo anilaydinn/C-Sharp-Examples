@@ -1,0 +1,11 @@
+C:\Users\anil_\source\repos\CSharpCourse\AccessModifiersDemo\bin\Debug\AccessModifiersDemo.exe.config
+C:\Users\anil_\source\repos\CSharpCourse\AccessModifiersDemo\bin\Debug\AccessModifiersDemo.exe
+C:\Users\anil_\source\repos\CSharpCourse\AccessModifiersDemo\bin\Debug\AccessModifiersDemo.pdb
+C:\Users\anil_\source\repos\CSharpCourse\AccessModifiersDemo\bin\Debug\AccessModifiers.exe
+C:\Users\anil_\source\repos\CSharpCourse\AccessModifiersDemo\bin\Debug\AccessModifiers.pdb
+C:\Users\anil_\source\repos\CSharpCourse\AccessModifiersDemo\bin\Debug\AccessModifiers.exe.config
+C:\Users\anil_\source\repos\CSharpCourse\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.csprojAssemblyReference.cache
+C:\Users\anil_\source\repos\CSharpCourse\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.csproj.CoreCompileInputs.cache
+C:\Users\anil_\source\repos\CSharpCourse\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.csproj.CopyComplete
+C:\Users\anil_\source\repos\CSharpCourse\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.exe
+C:\Users\anil_\source\repos\CSharpCourse\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.pdb
