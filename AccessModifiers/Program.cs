@@ -36,7 +36,7 @@ namespace AccessModifiers
         }
     }
 
-    internal class Course
+    public class Course
     {
         public string Name { get; set; }
         private class NestedClass
