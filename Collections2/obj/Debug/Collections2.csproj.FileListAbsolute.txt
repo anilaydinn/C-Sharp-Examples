@@ -1,0 +1,7 @@
+C:\Users\anil_\source\repos\CSharpCourse\Collections2\bin\Debug\Collections2.exe.config
+C:\Users\anil_\source\repos\CSharpCourse\Collections2\bin\Debug\Collections2.exe
+C:\Users\anil_\source\repos\CSharpCourse\Collections2\bin\Debug\Collections2.pdb
+C:\Users\anil_\source\repos\CSharpCourse\Collections2\obj\Debug\Collections2.csproj.CoreCompileInputs.cache
+C:\Users\anil_\source\repos\CSharpCourse\Collections2\obj\Debug\Collections2.exe
+C:\Users\anil_\source\repos\CSharpCourse\Collections2\obj\Debug\Collections2.pdb
+C:\Users\anil_\source\repos\CSharpCourse\Collections2\obj\Debug\Collections2.csprojAssemblyReference.cache
